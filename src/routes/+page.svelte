@@ -1,5 +1,9 @@
-
 <!-- <div id="letter">#19</div> -->
+<svelte:head>
+	<title>CLUB NODE.19 INVITE</title>
+	<meta name="robots" content="noindex nofollow" />
+	<html lang="en" />
+</svelte:head>
 
 <div id="hero">
 	<h1>CLUB NO.19</h1>
